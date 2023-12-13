@@ -39,6 +39,7 @@
         ]
     },
     "devDependencies": {
+        "@cypress/react": "^8.0.0",
         "gh-pages": "^2.2.0"
     }
 }
